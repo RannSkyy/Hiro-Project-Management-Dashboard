@@ -1,0 +1,6 @@
+{
+  "name": "Hiro - Project Management Dashboard",
+  "description": "Modern SaaS Project Management Dashboard featuring intuitive Kanban board, List and Calendar views, workspace and task management, team collaboration, and responsive dark/light mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
